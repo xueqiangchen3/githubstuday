@@ -1,3 +1,0 @@
-# githubstuday
-githubstuday
-github
